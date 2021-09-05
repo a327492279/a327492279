@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felix
 - 👀 I’m interested in network engineering 
 - 🌱 I’m currently learning robtics
-- 💞️ I’m looking to collaborate on building robots
+- 💞️ I’m looking to collaborate on programing robots
 - 📫 How to reach me hqu@umass.edu
 
 <!---
